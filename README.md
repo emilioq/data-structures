@@ -1,6 +1,6 @@
 # Supermart Checkout Area Simulation  
 
-This is a course project for a "Data Structures" course.  
+This is a course project for a Data Structures course.  
   
 This program simulates a checkout area of a supermarket.  
 The goal was to collect statistical information of the market's customers and cashiers.  
